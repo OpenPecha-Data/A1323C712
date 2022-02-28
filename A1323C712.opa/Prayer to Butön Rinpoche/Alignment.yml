@@ -1,0 +1,19 @@
+segment_sources:
+  PD9230563:
+    type: origin_type
+    relation: translation
+    language: en
+  PB94F36D6:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2a42271e081d4b789a8f072824fe3f6f:
+    PD9230563: 611f392772254a049d65d6e2d422a2fb
+    PB94F36D6: 41c0800fd7bd45e38595fcda2376e8a4
+  0e8b3440d91342d5bcb7d67b16042940:
+    PD9230563: f410d395040348ff982ccb66e29f90e4
+    PB94F36D6: 8dfb34edbdad407480da098f05bca980
+  68b88ba762a84ad6b466e8aa9a2395c1:
+    PD9230563: 74c75d23d14d4e9fa7b5ac092ae042a7
+    PB94F36D6: 3efaf1512ac54de59164687facf071a1
